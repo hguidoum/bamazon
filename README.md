@@ -1,6 +1,4 @@
-# Bamazon <a id="top"></a>
-
-Week 12 Homework
+# Bamazon
 
 ---
 
